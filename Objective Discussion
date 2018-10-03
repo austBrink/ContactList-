@@ -1,0 +1,19 @@
+# ContactList- 
+Objective: investigate and develop command over ArrayList objects
+
+Thanks for stopping by! 
+
+The included source files are the code from a homework project in Java. 
+The primary objective is stated the description (sub title). 
+Overall, I'd say the result satisfies the objective.  >.< XD :)   
+
+In addition to the cope of the challenge was the making of looped "menu's" simulated by user inputs and outputs. 
+
+Objectives for future consideration: 
+* Add output instructions after adding new contact (details in "MobilePhone")
+* Integrate quit (break) options for inner menus (loops)
+* Create and employ alphabetize method and menu option 
+* Create and employ search for contact via contacts phone number into menu 
+* Research and consider employment of saving added contacts to file. 
+* Handle exceptions in menu for specificity (currently crashable menu loops) (more on this later)
+
